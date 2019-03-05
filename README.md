@@ -12,5 +12,5 @@ Clone repository and install requirements.txt via pip:
 ```python
 pip install -r requirements.txt
 ```
-![VibrAlert Test Image](https://github.com/Team-Syzygy/Google-Science-Fair/blob/master/Images/vibralert_001.png)
+![VibrAlert Test Image](https://github.com/ddmin/Google-Science-Fair-2018/blob/master/Google%20Science%20Fair%202018/Images/vibralert_001.png)
 Credit to PyImageSearch for the [imutils](https://github.com/jrosebr1/imutils) library. 
