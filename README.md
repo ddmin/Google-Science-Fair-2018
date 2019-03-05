@@ -6,7 +6,7 @@ Google Science Fair 2018 Entry for Team Syzygy (that was never submitted)
 # Team Syzygy
 
 This software utilizes OpenCV and detects movement from a live feed and returns either "Right" or "Left".
-![VibrAlert Demo](https://github.com/Team-Syzygy/Google-Science-Fair/blob/master/Images/vibralert_demo.gif)
+![VibrAlert Demo](https://github.com/ddmin/Google-Science-Fair-2018/blob/master/Google%20Science%20Fair%202018/Images/vibralert_demo.gif)
 
 Clone repository and install requirements.txt via pip:
 ```python
